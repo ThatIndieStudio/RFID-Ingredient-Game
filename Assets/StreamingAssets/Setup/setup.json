@@ -1,0 +1,10 @@
+{
+    "setup":[
+    {
+        "rfidServer": "ws://192.168.50.186:8001/ws",
+        "apiPath": "https://developlevelup.com/api",
+        "achievementString": "watch",
+        "bookName": "test of Jump In Video Games"
+    }
+    ]
+}
